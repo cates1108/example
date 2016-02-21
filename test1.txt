@@ -7,3 +7,5 @@ this is feature1 branch
 this is master new add
 
 this is feature2 branch
+
+delete all branch but add branch 1
